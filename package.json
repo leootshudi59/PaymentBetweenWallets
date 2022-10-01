@@ -1,5 +1,5 @@
 {
-  "name": "venmo-blockchain-starter",
+  "name": "payment-between-addresses",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
