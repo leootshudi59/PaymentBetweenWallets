@@ -20,7 +20,7 @@ contract Transactions {
     address public sender;
     address public _receiver;
 
-    function transferMoney(
+    function addTransactionToBlockchain(
         address payable receiver,
         uint amount,
         string memory message
