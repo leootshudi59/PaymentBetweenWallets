@@ -60,6 +60,7 @@
   border-radius: 9999px;
   font-weight: 600;
   cursor: pointer;
+  text-decoration: black;
 }
 
 .accentColor {
